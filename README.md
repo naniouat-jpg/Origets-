@@ -11,7 +11,7 @@ motion.p
   <div className="flex gap-4 mb-6">  
     <Button  
       variant={mode === "patient" ? "default" : "outline"}  
-      onClick={() => setMode("patient")}  
+      onClick={() => setMode("patient")}  [mode
       className
 # Origets-
 motion.p  
