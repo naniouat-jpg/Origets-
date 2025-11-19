@@ -52,4 +52,4 @@ motion.p
     <Button  
       variant={mode === "patient" ? "default" : "outline"}  
       onClick={() => setMode("patient")}  
-      className
+      classNameresults?q=...&mode=
