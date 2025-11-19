@@ -14,7 +14,7 @@ Une ligne cassée : import { useRoute "next/router";
 
 Une section <motion.div> non fermée.
 
-Fin de composant manquante ())}, </div>, </Home>…).
+Fin de composant manquante ())}, </div>, < /Home>…).
 
 
 
@@ -341,4 +341,24 @@ motion.p
     >  
       Médecin  
     </Button>  
-  </d
+  </dindex.html (page d’accueil)
+
+styles/styles.css (styles)
+
+manifest.json (PWA - optionnel mais utile)
+
+sw.js (service worker - optionnel)
+
+offline.html (page hors-ligne)
+
+icons/o-rigests-logo.svg (logo SVG)
+
+README.md
+
+UPLOAD_INSTRUCTIONS.txt
+
+package.json (minimal, pour Vercel/Node si besoin)
+
+
+
+---
