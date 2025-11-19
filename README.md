@@ -1,4 +1,5 @@
 
+
 Voici la version corrigée, propre et fonctionnelle de ton code Next.js + Framer Motion + Shadcn UI.
 
 Tu avais plusieurs erreurs :
